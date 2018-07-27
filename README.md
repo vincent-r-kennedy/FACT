@@ -10,7 +10,7 @@ And does it really matter anyway when, in our heads, we are all secretly convert
 
 All these problems and more are eliminated via the *FACT* system.
 
-## FACT 101
+## FACT - 101
 
 :grapes: grape - is the smallest piece of work you can do.
 
@@ -22,7 +22,7 @@ All these problems and more are eliminated via the *FACT* system.
 
 :watermelon: watermelon is the biggest piece of work we can do without slicing it up.
 
-## Advance FACT
+## FACT - Advance
 
 If you have personal fruit preferences then switches are allowed, you can for example use:
 

@@ -47,7 +47,7 @@ When your Product Owner asks how long something is going to take - reply with co
 
 ## FACT - Extras
 
-### The Plynth of Deliverence
+### The Plinth of Deliverence
 
 Next time your team is estimating your next sprint, try this to demonstrate the visual power of FACT in action.
 
@@ -64,13 +64,13 @@ The above is a familiar scene to us all I am sure.
 
 Next time though, come prepared - come with fruit.  As you agree on your estimations, take the actual fruit that corresponds to your estimate and place it in a basket.  This basket can be a regular basket, or if you work in 'The Valley', perhaps you can purchase an advance glass chilling room for you and your team.  
 
-Either way, take you basket and place it on a plynth. This plynth should be referred to as **The Plynth of Deliverence** and should be located somewhere where all your team and interested parties can see it.
+Either way, take you basket and place it on a plynth. This plynth should be referred to as **The Plinth of Deliverence** and should be located somewhere where all your team and interested parties can see it.
 
 I'm sure you are excitedly jumping ahead in your minds right at this moment..... that's right:
 
 ### Eat The Fruit Of Deliverence
 
-As each team member completes their story, they get to (or 'must' if you will), approach **The Plynth of Deliverence**, take the corresponding fruit, and eat it.  
+As each team member completes their story, they get to (or 'must' if you will), approach **The Plinth of Deliverence**, take the corresponding fruit, and eat it.  
 
 If a QA has done absolutely _anything_ of any note, they too get to share the bounty.
 
@@ -78,7 +78,7 @@ If a QA has done absolutely _anything_ of any note, they too get to share the bo
 
 The above becomes easy to answer.
 
-After your Product Owner asks you, for the 100th time, the above question - simply glance at **The Plynth of Deliverence.**
+After your Product Owner asks you, for the 100th time, the above question - simply glance at **The Plinth of Deliverence.**
 
 Is it full and heavy with the weight of over optimism?  
 

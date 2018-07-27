@@ -5,7 +5,7 @@
 Software engineering esimates are notorious for being wildy inacurate and way to abstract.  
 
 What's a 3 pointer compared with a 5 pointer?  
-What the hell are we talking about T-Shirt sizes?  
+Why the hell are we talking about T-Shirt sizes?  
 And does it really matter anyway when, in our heads, we are all secretly converting them to 'days-of-work'?
 
 All these problems and more are eliminated via the *FACT* system.

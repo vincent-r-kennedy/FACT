@@ -84,7 +84,9 @@ Is it full and heavy with the weight of over optimism?
 
 Then fuck no, we can't take any more fruit. 
 
-Is it bare and desolate, save for a few rogoue grapes and an apple that everybody is trying to avoid touching?  Then yes, yes we can take more - and we want more.
+Is it bare and desolate, save for a few rogoue grapes and an apple that everybody is trying to avoid touching?  
+
+Then yes, yes we can take more - and _we want_ more.
 
 
 

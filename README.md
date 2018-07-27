@@ -9,9 +9,13 @@ Without any further ado, let's introduce *FACT*
 
 ## FACT 101
 :grapes: grape - is the smallest piece of work you can do.
+
 :kiwifruit: kiwi fruit is the same as a few grapes work
+
 :apple: apple is the same a kiwi plus a couple of grapes
+
 :pineapple:pineapple is at least a couple of apples
+
 :watermelon: watermelon is the biggest piece of work we can do without slicing it up.
 
 ## Advance FACT

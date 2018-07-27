@@ -45,5 +45,41 @@ When your Product Owner asks how long something is going to take - reply with co
 > "we don't do 'how long' here, we do FACT, and the FACT is, that this is a pineapple. 
 > We all agreed it was a pineapple even though you thought it was just a grape."
 
+## FACT - Extras
+
+### The Basket
+
+Next time your team is estimating your next sprint, try this to demonstrate the visual power of FACT in action.
+
+Typically, your team decides how much fruit to allocate to a story:
+
+> "It's at least a pineapple."
+> "You think everythings a pineapple!"
+> "You awlays think it's a strawberry but it ends up being a pineapple."
+> "That happened once, ONCE!  Let it go man, let it go."
+> "We should let you go"
+> "I'm going to shove a fucking pineapple up your arse. SIDEWAYS"
+
+The above is a familiar scene for us all I am sure.  
+
+Next time though, come prepared - come with fruit.  As you agree on your estimations, take the actual fruit that corresponds to your estimate and place it in a basket.  This basket can be a regular basket, or perhaps you can purchase an advance glass chilling room for your team.  
+
+Either way, take you basket and place it on a plynth. This plynth should be referred to as **The Plynth of Deliverence** and should be located somewhere where all your team and interested parties can see it.
+
+I'm sure you are excitedly jumping ahead in your minds right at this moment - that's right:
+
+### Eat The Fruit Of Deliverence
+
+As each team member completes their story, they get to (or 'must' if you will), approach **The Plynth of Deliverence**, take the corresponding fruit, and eat it.  If a QA has done absolutely _anything_ of any note, they too get to share the bounty.
+
+### Can We Take More Fruit?
+
+The above becomes an easy question to answer - simply glance at **The Plynth of Deliverence** - is it full and heavy with the weight of over optimism?  
+
+Then fuck no, we can't take any more fruit. 
+
+Is it bare and desolate, save for a few rogoue grapes and an apple that everybody is trying to avoid touching?  Then yes, yes we can take more - and we want more.
+
+
 
 

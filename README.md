@@ -40,5 +40,8 @@ Why are you still sat there reading this when your terrible estimates are _right
 
 You _already_ have enough information to start apply FACT at work **right now.**
 
-When your Product Owner asks how long something is going to take - reply with confidence - "we don't do 'how long' here, we do FACT, and the fact is that this is a  :pineapple:pineapple. We all agreed it was a :pineapple: pineapple even though you thought it was just a :grapes:grape."
+When your Product Owner asks how long something is going to take - reply with confidence:
+
+> "we don't do 'how long' here, we do FACT, and the fact is that this is a  :pineapple:pineapple. 
+> We all agreed it was a :pineapple: pineapple even though you thought it was just a :grapes:grape."
 

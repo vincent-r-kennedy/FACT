@@ -10,9 +10,9 @@ Without any further ado, let's introduce *FACT*
 ## FACT 101
 :grapes: grape - is the smallest piece of work you can do.
 
-:kiwifruit: kiwi fruit is the same as a few grapes work
+:strawberry: a strawberry is the same as a few grapes work
 
-:apple: apple is the same a kiwi plus a couple of grapes
+:apple: apple is the same a strawberry plus a couple of grapes
 
 :pineapple:pineapple is at least a couple of apples
 
@@ -20,8 +20,11 @@ Without any further ado, let's introduce *FACT*
 
 ## Advance FACT
 If you have personal fruit preferences then switches are allowed, you can for example use:
+
 a cherry :cherries: instead of a grape :grapes:
+
 or a pear :pear: instead of an apple :apple:
 
 But for obvious reasons you are not allowed to use a peach or an eggplant
+
 :peach::eggplant:

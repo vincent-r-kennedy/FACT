@@ -76,9 +76,9 @@ If a QA has done absolutely _anything_ of any note, they too get to share the bo
 
 ### Can We Take More Fruit?
 
-The above becomes an easy question to answer.
+The above becomes easy to answer.
 
-After being asked the above question by your Product Owner, for the 100th time - simply glance at **The Plynth of Deliverence.**
+After your Product Owner asks you, for the 100th time, the above question - simply glance at **The Plynth of Deliverence.**
 
 Is it full and heavy with the weight of over optimism?  
 

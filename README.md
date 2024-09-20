@@ -43,7 +43,7 @@ You _already_ have enough information to start apply FACT at work **right now.**
 When your Product Owner asks how long something is going to take - reply with confidence:
 
 > "we don't do 'how long' here, we do FACT, and the FACT is - that piece of work is a pineapple. 
-> We all agreed it was a pineapple even though you thought it was just a grape."
+> We eventually agreed it was a pineapple, even though some thought it was just a grape."
 
 ## FACT - Extras
 
@@ -54,11 +54,14 @@ Next time your team is estimating your next sprint, try this to demonstrate the 
 Typically, your team decides how much fruit to allocate to a story:
 
 > "It's at least a pineapple."
+> 
 > "You think everythings a pineapple!"
+>
 > "You awlays think it's a strawberry but it ends up being a pineapple."
 > "That happened once, ONCE!  Let it go man, let it go."
+>
 > "We should let _you_ go"
-> "I'm going to shove a fucking pineapple up your arse. SIDEWAYS"
+>
 
 The above is a familiar scene to us all I am sure.  
 

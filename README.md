@@ -43,7 +43,9 @@ You _already_ have enough information to start applying FACT at work **right now
 When your Product Owner asks how long something is going to take - reply with confidence:
 
 > "we don't do 'how long' here, we do FACT, and the FACT is - that piece of work is a pineapple. 
-> We got together and talkened about it -  agreed it was a pineapple (even though some thought it was a grape)."
+> We got together and talked about it - and agreed it was a pineapple (even though some thought it was a grape)."
+
+## Embrace FACT Today!
 
 
 

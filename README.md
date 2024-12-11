@@ -36,60 +36,15 @@ But for obvious reasons you are not allowed to use a peach or an eggplant
 
 ## FACT - The Future
 
-Why are you still sat there reading this when, your terrible estimates are -  _right at this very moment_ - applying delivery pressure to you and your team?  
+Why are you still sat there reading this when your terrible estimates are -  _right at this very moment_ - applying delivery pressure to you and your team?  
 
-You _already_ have enough information to start apply FACT at work **right now.**
+You _already_ have enough information to start applying FACT at work **right now.**
 
 When your Product Owner asks how long something is going to take - reply with confidence:
 
 > "we don't do 'how long' here, we do FACT, and the FACT is - that piece of work is a pineapple. 
-> We eventually agreed it was a pineapple, even though some thought it was just a grape."
+> We got together and talkened about it -  agreed it was a pineapple (even though some thought it was a grape)."
 
-## FACT - Extras
-
-### The Plinth of Deliverence
-
-Next time your team is estimating your next sprint, try this to demonstrate the visual power of FACT in action.
-
-Typically, your team decides how much fruit to allocate to a story:
-
-> "It's at least a pineapple."
-> 
-> "You think everythings a pineapple!"
->
-> "You awlays think it's a strawberry but it ends up being a pineapple."
-> "That happened once, ONCE!  Let it go man, let it go."
->
-> "We should let _you_ go"
->
-
-The above is a familiar scene to us all I am sure.  
-
-Next time though, come prepared - come with fruit.  As you agree on your estimations, take the actual fruit that corresponds to your estimate and place it in a basket.  This basket can be a regular basket, or if you work in 'The Valley', perhaps you can purchase an advance glass chilling room for you and your team.  
-
-Either way, take you basket and place it on a plynth. This plynth should be referred to as **The Plinth of Deliverence** and should be located somewhere where all your team and interested parties can see it.
-
-I'm sure you are excitedly jumping ahead in your minds right at this moment..... that's right:
-
-### Eat The Fruit Of Deliverence
-
-As each team member completes their story, they get to (or 'must' if you will), approach **The Plinth of Deliverence**, take the corresponding fruit, and eat it.  
-
-If a QA has done absolutely _anything_ of any note, they too get to share the bounty.
-
-### Can We Take More Fruit?
-
-The above becomes easy to answer.
-
-After your Product Owner asks you, for the 100th time, the above question - simply glance at **The Plinth of Deliverence.**
-
-Is it full and heavy with the weight of over optimism?  
-
-Then fuck no, we can't take any more fruit. 
-
-Is it bare and desolate, save for a few rogoue grapes and an apple that everybody is trying to avoid touching?  
-
-Then yes, yes we can take more - and _we want_ more.
 
 
 
